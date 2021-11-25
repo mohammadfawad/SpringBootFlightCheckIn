@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 10, 2021, 1:55:13 PM
+    Author     : frontend
+*/
+
+.body{
+    
+    min-height: 100vh;
+    background : linear-gradient(135deg, #76c96e, #51a4a1);
+    background-repeat:no-repeat; 
+    justify-content: center;
+    align-items: center;
+
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+.input_error{
+    color: red;
+    font-style: italic;
+}
+.jumbotron{
+    background-color:transparent !important; 
+}
